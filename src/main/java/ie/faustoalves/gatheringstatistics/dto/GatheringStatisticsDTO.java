@@ -1,18 +1,16 @@
-package ie.faustoalves.gatheringestatistics.dto;
+package ie.faustoalves.gatheringstatistics.dto;
 
-import java.util.ArrayList;
-
-public class GatheringEstatisticsDTO {
+public class GatheringStatisticsDTO {
     private Long idKey;
 
     public Integer acessed;
 
     public Long idSelected;
 
-    public GatheringEstatisticsDTO() {
+    public GatheringStatisticsDTO() {
     }
 
-    public GatheringEstatisticsDTO(Long idKey, Integer acessed) {
+    public GatheringStatisticsDTO(Long idKey, Integer acessed) {
         this.idKey = idKey;
         this.acessed = acessed;
     }

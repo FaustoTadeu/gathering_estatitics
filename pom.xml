@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>ie.faustoalves</groupId>
-    <artifactId>gatheringestatistics</artifactId>
+    <artifactId>gatheringstatistics</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>gatheringestatistics</name>
+    <name>gatheringstatistics</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

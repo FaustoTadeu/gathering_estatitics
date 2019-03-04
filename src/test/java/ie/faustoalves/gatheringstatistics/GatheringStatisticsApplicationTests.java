@@ -1,4 +1,4 @@
-package ie.faustoalves.gatheringestatistics;
+package ie.faustoalves.gatheringstatistics;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class GatheringestatisticsApplicationTests {
+public class GatheringStatisticsApplicationTests {
 
     @Test
     public void contextLoads() {
