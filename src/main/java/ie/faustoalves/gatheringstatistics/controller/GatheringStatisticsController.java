@@ -1,7 +1,7 @@
 package ie.faustoalves.gatheringstatistics.controller;
 
-import ie.faustoalves.gatheringstatistics.dto.GatheringStatisticsDTO;
 import ie.faustoalves.gatheringstatistics.service.GatheringStatisticsService;
+import ie.faustoalves.gatheringstatistics.dto.GatheringStatisticsDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
